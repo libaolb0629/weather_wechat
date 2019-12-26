@@ -54,7 +54,7 @@ class Handel():
         data = {
             "touser": openid,
             "template_id": "u6j9_lD98uyjzbuWDQs1DHzWcrXaFGpHIHgNxhTKRDU",
-            "url": "http://baogegh.top",
+            "url": "https://lb0629.gitee.io",
             "data": {
                 "date": {
                     "value": date,
